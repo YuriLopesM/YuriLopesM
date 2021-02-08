@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-# I'm Yuri, starting the style of this page! 
+I'm Yuri, starting the style of this page! 
 
 - 🔭 I’m currently working on AGPR5
 - 🌱 I’m currently learning JavaScript/TypeScript, React and more!
