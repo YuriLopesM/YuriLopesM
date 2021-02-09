@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-282A36?style=flat-square&logo=Instagram&logoColor=F56B91&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=Gmail&logoColor=F56B91&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
 
-I'm _Yuri_, a Junior Front-end Developer from Criciúma, Santa Catarina (🇧🇷). I'm 17 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. I just finished high school with an integrated Software Developer course and I have some goals for this year. If you want to take a look, it's on one of the lists below **(I appreciate it 😊)**
+I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. I just finished high school with an integrated Software Developer course and I have some goals for this year. If you want to take a look, it's on one of the lists below **(I appreciate it 😊)**
 
 - ⚙️ I’m currently working on AGPR5, an enterprise focused in agrobusiness;
 - 📖 I’m learning `JavaScript/TypeScript`, `React`, `Angular` and more!
@@ -29,7 +29,6 @@ I'm _Yuri_, a Junior Front-end Developer from Criciúma, Santa Catarina (🇧�
 <span align="center">
 
 [![YuriLopesM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLopesM&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula&hide_border=true">
 
 </span>
 
@@ -37,6 +36,9 @@ I'm _Yuri_, a Junior Front-end Developer from Criciúma, Santa Catarina (🇧�
 
 ### Languages Used  🧙
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula&hide_border=true">
+</p>
 
 ---
 
