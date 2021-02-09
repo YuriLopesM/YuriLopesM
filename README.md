@@ -47,5 +47,5 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I lov
 -[] Gradually start learning about Backend;
 -[] Increase the range of tools and solidify my knowledge in the ones I already know something;
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/YuriLopesM)](https://github.com/YuriLopesM)
+
 
