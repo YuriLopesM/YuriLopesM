@@ -39,12 +39,10 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I lov
 </details>
 
 ---
-<details>
-    <summary> My personal goals for 2021 ⏱️ </summary>
-    - [x] Start learning Git and GitHub and use the repository to store my small projects
-    - [x] Customize my `README.md` profile
-    - [] Create my own portfolio using a web application
-</details>
+### My personal goals for 2021
+- [x] Start learning Git and GitHub and use the repository to store my small projects
+- [x] Customize my `README.md` profile
+- [] Create my own portfolio using a web application
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/YuriLopesM)](https://github.com/YuriLopesM)
 
