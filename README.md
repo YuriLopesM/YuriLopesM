@@ -35,9 +35,9 @@ I'm _Yuri_, a Junior Front-end Developer! I'm 17 years old and I love to learn a
 ---
 
 ### Languages Used  🧙
-<span align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula&hide_border=true">
-</span>
+</p>
 
 ---
 
