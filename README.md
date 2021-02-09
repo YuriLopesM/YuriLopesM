@@ -46,6 +46,4 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I lov
 - [ ] Study React.js and its ecosystem until I am satisfied with the results;
 - [ ] Gradually start learning about Backend;
 - [ ] Increase the range of tools and solidify my knowledge in the ones I already know something;
-
-
-
+- [ ] Starting college in the middle of the year
