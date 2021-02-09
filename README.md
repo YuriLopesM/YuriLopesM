@@ -30,9 +30,11 @@ I'm Yuri, a Junior Front-end Developer! I'm 17 and I love to learn and look for 
 
 ---
 
-### Languages Used 🧙
+### Languages Used Here 🧙
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula">
+
+---
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/YuriLopesM)](https://github.com/YuriLopesM)
 
