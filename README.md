@@ -9,7 +9,6 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I lov
 - ⚙️ I’m currently working on **AGPR5**, an enterprise focused in agrobusiness;
 - 📖 I’m learning `JavaScript/TypeScript`, `React`, `Angular` and more!
 - 💬 Ask me about anything! Just send me a message or feedback in [Linkedin](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
-- ☎️ How to reach me: I have some profiles at the top, you can find me there!
 - 👾 Fun fact: I play some games, like League of Legends, Rocket League and CS:GO;
 
 **Languages and Tools**
@@ -39,10 +38,14 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I lov
 </details>
 
 ---
-### My personal goals for 2021
-- [x] Start learning Git and GitHub and use the repository to store my small projects
-- [x] Customize my `README.md` profile
-- [] Create my own portfolio using a web application
+### My personal goals for 2021 ✨
+
+-[x] Start learning Git and GitHub and use the repository to store my small projects;
+-[x] Customize my `README.md` profile;
+-[] Create my own Portfolio using a web application;
+-[] Study React.js and its ecosystem until I am satisfied with the results;
+-[] Gradually start learning about Backend;
+-[] Increase the range of tools and solidify my knowledge in the ones I already know something;
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/YuriLopesM)](https://github.com/YuriLopesM)
 
