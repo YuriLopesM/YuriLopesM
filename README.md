@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello there! Nice to meet you. 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-282A36?style=flat-square&logo=Linkedin&logoColor=F56B91&link=https://www.linkedin.com/in/yuri-lopes-machado-170023198/)](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-282A36?style=flat-square&logo=Instagram&logoColor=F56B91&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
