@@ -12,9 +12,9 @@ I'm Yuri, starting the style of this page!
 
 [![YuriLopesM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLopesM&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-lopes-machado-170023198/)](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-lopes-machado-170023198/)](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-deep-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
 
