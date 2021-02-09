@@ -1,13 +1,15 @@
 # Hello there! Nice to meet you. 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-282A36?style=flat-square&logo=Linkedin&logoColor=F56B91&link=https://www.linkedin.com/in/yuri-lopes-machado-170023198/)](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-282A36?style=flat-square&logo=Instagram&logoColor=F56B91&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=Gmail&logoColor=F56B91&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
 <div align="right">
 
 __*Style made to match the GitHub dark mode, I like more this theme :crescent_moon:*__
 
 </div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-282A36?style=flat-square&logo=Linkedin&logoColor=F56B91&link=https://www.linkedin.com/in/yuri-lopes-machado-170023198/)](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-282A36?style=flat-square&logo=Instagram&logoColor=F56B91&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=Gmail&logoColor=F56B91&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
+
 
 I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. I just finished high school with an integrated Software Developer course and I have some goals for this year. If you want to take a look, it's on one of the lists below **(I appreciate it 😊)**
 
@@ -17,7 +19,7 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I lov
 - 👾 Fun fact: I play some games, like League of Legends, Rocket League and CS:GO;
 
 **Languages and Tools**
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=F56B91" />
     <img src="https://img.shields.io/badge/Angular-282A36?style=for-the-badge&logo=angular&logoColor=F56B91" />
     <img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=F56B91" />
