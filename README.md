@@ -19,7 +19,7 @@ I'm Yuri, starting the style of this page!
 
 # Languages Used
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuliabit&layout=compact&bg_color=ffffff&text_color=333333">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&layout=compact&bg_color=ffffff&text_color=333333">
 
 
 
