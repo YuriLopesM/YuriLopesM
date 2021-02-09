@@ -6,7 +6,7 @@
 
 I'm Yuri, a Junior Front-end Developer! I'm 17 and I love to learn and look for new things. I just finished high school and I have some goals for this year. If you want to take a look, is in one of the lists below (I appreciate it 😊)  
 
-- ⚙️ I’m currently working on AGPR5, an enterprise focused in agrobusiness;
+- ⚙️ <span style="color: red">I’m currently working on AGPR5, an enterprise focused in agrobusiness;</span>
 - 📖 I’m learning `JavaScript/TypeScript`, `React`, `Angular` and more!
 - 💬 Ask me about anything! Just send me a message in [Linkedin](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
 - ☎️ How to reach me: I have some profiles at the top, you can find me there!
