@@ -30,7 +30,7 @@ I'm Yuri, starting the style of this page!
 </div>
  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&layout=compact&bg_color=282A36&text_color=F56B91">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula">
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/YuriLopesM)](https://github.com/YuriLopesM)
 
