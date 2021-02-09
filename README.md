@@ -32,7 +32,7 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I lov
 </span>
 
 <details>
-    <summary>Languages Used 🧙</summary>
+    <summary> **Languages Used 🧙** </summary>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula&hide_border=true">
     </p>
