@@ -26,7 +26,7 @@ I'm Yuri, starting the style of this page!
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&layout=compact&bg_color=ffffff&text_color=F56B91">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&layout=compact&bg_color=CCCCCC&text_color=333333">
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/YuriLopesM)](https://github.com/YuriLopesM)
 
