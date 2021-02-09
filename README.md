@@ -26,14 +26,18 @@ I'm _Yuri_, a Junior Front-end Developer! I'm 17 years old and I love to learn a
 
 ### GitHub Stats 👨‍💻
 
+<span align="center">
+
 [![YuriLopesM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLopesM&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</span>
 
 ---
 
 ### Languages Used  🧙
-<p align="center">
+<span align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula&hide_border=true">
-</p>
+</span>
 
 ---
 
