@@ -6,7 +6,7 @@
 
 I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. I just finished high school with an integrated Software Developer course and I have some goals for this year. If you want to take a look, it's on one of the lists below **(I appreciate it 😊)**
 
-- ⚙️ I’m currently working on AGPR5, an enterprise focused in agrobusiness;
+- ⚙️ I’m currently working on **AGPR5**, an enterprise focused in agrobusiness;
 - 📖 I’m learning `JavaScript/TypeScript`, `React`, `Angular` and more!
 - 💬 Ask me about anything! Just send me a message or feedback in [Linkedin](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
 - ☎️ How to reach me: I have some profiles at the top, you can find me there!
@@ -32,7 +32,7 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I lov
 </span>
 
 <details>
-    <summary> **Languages Used 🧙** </summary>
+    <summary> Languages Used 🧙 </summary>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula&hide_border=true">
     </p>
