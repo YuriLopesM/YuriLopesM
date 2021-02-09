@@ -10,4 +10,8 @@ I'm Yuri, starting the style of this page!
 
 [![YuriLopesM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLopesM&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<div>
+![NPM License](https://img.shields.io/npm/l/:packageName)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/YuriLopesM)](https://github.com/YuriLopesM)
+</div>
+
