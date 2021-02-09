@@ -6,16 +6,20 @@
 
 I'm Yuri, starting the style of this page! 
 
-- 🔭 I’m currently working on AGPR5
+- 🔭 I’m currently working on AGPR5, an enterprise focused in agrobusiness;
 - 🌱 I’m currently learning JavaScript/TypeScript, React and more!
 - 💬 Ask me about anything! Just send me a message in [Linkedin](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
-- 📫 How to reach me: ...
+- ☎️ How to reach me: I have some profiles at the top, you can find me there!
 - ⚡ Fun fact: I play some games, like League of Legends, Rocket League and CS:GO;
 
 ---
 # GitHub Stats
 
 [![YuriLopesM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLopesM&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+# Languages Used
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuliabit&layout=compact&bg_color=ffffff&text_color=333333">
 
 
 
