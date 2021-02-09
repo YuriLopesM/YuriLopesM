@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-282A36?style=flat-square&logo=Instagram&logoColor=F56B91&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=Gmail&logoColor=F56B91&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
 
-I'm Yuri, starting the style of this page! 
+I'm Yuri, a Junior Developer in Front-end! I have 17 years and I love learn and search for new things :smile: 
 
 - 🔭 I’m currently working on AGPR5, an enterprise focused in agrobusiness;
 - 🌱 I’m currently learning JavaScript/TypeScript, React and more!
@@ -28,8 +28,8 @@ I'm Yuri, starting the style of this page!
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
- 
 
+***
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula">
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/YuriLopesM)](https://github.com/YuriLopesM)
