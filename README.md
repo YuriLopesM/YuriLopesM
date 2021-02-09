@@ -22,12 +22,12 @@ I'm Yuri, a Junior Developer in Front-end! I have 17 years and I love learn and 
 **Currently learning:**
 
 <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=F56B91" />
+    <img src="https://img.shields.io/badge/Angular-282A36?style=for-the-badge&logo=angular&logoColor=F56B91" />
+    <img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=F56B91" />
+    <img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F56B91" />
+    <img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=F56B91" />
+    <img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=F56B91" />
 </div>
 
 **Percentage in GitHub:**
