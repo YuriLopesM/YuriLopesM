@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-282A36?style=flat-square&logo=Linkedin&logoColor=F56B91&link=https://www.linkedin.com/in/yuri-lopes-machado-170023198/)](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-282A36?style=flat-square&logo=Instagram&logoColor=F56B91&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=Gmail&logoColor=F56B91&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
-<span align="right">
+<p align="right">
 
 __*Style made to match the GitHub dark mode, I like more this theme :crescent_moon:*__
 
-</span>
+</p>
 
 I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. I just finished high school with an integrated Software Developer course and I have some goals for this year. If you want to take a look, it's on one of the lists below **(I appreciate it 😊)**
 
