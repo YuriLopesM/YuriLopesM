@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-282A36?style=flat-square&logo=Instagram&logoColor=F56B91&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=Gmail&logoColor=F56B91&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
 
-I'm Yuri, a Junior Developer in Front-end! I have 17 years and I love learn and search for new things :smile: 
+I'm Yuri, Junior Front-end Developer! I'm 17 and I love learning and looking for new things :smile: 
 
 - 🔭 I’m currently working on AGPR5, an enterprise focused in agrobusiness;
 - 🌱 I’m currently learning JavaScript/TypeScript, React and more!
@@ -13,11 +13,11 @@ I'm Yuri, a Junior Developer in Front-end! I have 17 years and I love learn and 
 - ⚡ Fun fact: I play some games, like League of Legends, Rocket League and CS:GO;
 
 ---
-## GitHub Stats
+### GitHub Stats :man-technologist:
 
 [![YuriLopesM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLopesM&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages Used
+### Languages Used :mage:
 
 **Currently learning:**
 
