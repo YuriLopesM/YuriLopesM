@@ -5,12 +5,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=Gmail&logoColor=F56B91&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
 
 <div align="center">
-
+    
 __*Style made to match with the GitHub dark mode, I like more this theme :crescent_moon:*__
 
 </div>
 
 I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. I just finished high school with an integrated Software Developer course and I have some goals for this year. If you want to take a look, it's on one of the lists below **(I appreciate it 😊)**
+
+<img align="right" src="https://i.ibb.co/x7d4DBt/Asset-1.png" alt="Logo" border="0">
 
 - ⚙️ I’m currently working on **AGPR5**, an enterprise focused in agrobusiness;
 - 📖 I’m learning `JavaScript/TypeScript`, `React`, `Angular` and more!
@@ -48,8 +50,9 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 17 years old and I lov
 
 - [x] Start learning Git and GitHub and use the repository to store my small projects;
 - [x] Customize my `README.md` profile;
+- [ ] Increase the range of tools and solidify my knowledge in the ones I already know something;
 - [ ] Create my own Portfolio using a web application;
+- [ ] Starting college in the middle of the year.
+- [ ] Use my social networks more, specifically Linkedin;
 - [ ] Study React.js and its ecosystem until I am satisfied with the results;
 - [ ] Gradually start learning about Backend;
-- [ ] Increase the range of tools and solidify my knowledge in the ones I already know something;
-- [ ] Starting college in the middle of the year.
