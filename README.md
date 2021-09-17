@@ -22,12 +22,11 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 18 years old and I lov
 **Languages and Tools**
 <div align="center">
     <img src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=F56B91" />
-    <img src="https://img.shields.io/badge/Next-282A36?style=for-the-badge&logo=next.js&logoColor=F56B91" />
-    <img src="https://img.shields.io/badge/Angular-282A36?style=for-the-badge&logo=angular&logoColor=F56B91" />
+    <img src="https://img.shields.io/badge/Next.js-282A36?style=for-the-badge&logo=next.js&logoColor=F56B91" />
     <img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=F56B91" />
     <img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F56B91" />
-    <img src="https://img.shields.io/badge/HTML-282A36?style=for-the-badge&logo=html5&logoColor=F56B91" />
-    <img src="https://img.shields.io/badge/CSS-282A36?style=for-the-badge&logo=css3&logoColor=F56B91" />
+    <img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=F56B91" />
+    <img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=F56B91" />
 </div>
 
 ---
