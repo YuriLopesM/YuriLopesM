@@ -52,8 +52,8 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 18 years old and I lov
 - [x] Start learning Git and GitHub and use the repository to store my small projects;
 - [x] Customize my `README.md` profile;
 - [x] Starting college in the middle of the year.
-- [ ] Increase the range of tools and solidify my knowledge in the ones I already know something;
+- [x] Increase the range of tools and solidify my knowledge in the ones I already know something;
+- [x] Study React.js and its ecosystem ~~until I am satisfied with the results~~ (well, I'm never satisfied, but I study alot 😄);
 - [ ] Create my own Portfolio using a web application;
-- [ ] Use my social networks more, specifically Linkedin; *(in build)*
-- [ ] Study React.js and its ecosystem until I am satisfied with the results; *(in build)*
+- [ ] Use my social networks more, specifically Linkedin;
 - [ ] Gradually start learning about Backend;
