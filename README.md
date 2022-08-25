@@ -45,6 +45,3 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 19 years old and I lov
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula&hide_border=true">
     </p>
 </details>
-
----
-### Updating personal goals for 2022, await 👀
