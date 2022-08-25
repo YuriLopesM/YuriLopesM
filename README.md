@@ -15,10 +15,10 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 19 years old and I lov
 
 <img align="right" src="https://i.ibb.co/x7d4DBt/Asset-1.png" alt="Logo" border="0">
 
-- ⚙️ I’m currently working on **Neogrid**, an enterprise focused in supply chain;
+- ⚙️ I’m currently working on **Neogrid**, an enterprise focused in supply chain
 - 📖 I’m learning `JavaScript/TypeScript`, `React`, `Next` and more!
 - 💬 Ask me about anything! Just send me a message or feedback in [Linkedin](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
-- 👾 Fun fact: I play some games, like Valorant, CS:GO and League of Legends;
+- 👾 Fun fact: I play some games, like Valorant, CS:GO and League of Legends
 
 **Languages and Tools**
 <div align="center">
