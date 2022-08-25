@@ -11,7 +11,7 @@ __*Style made to match with the GitHub dark mode, I like more this theme :cresce
 
 </div>
 
-I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 19 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. I just finished high school with an integrated Software Developer course and I have some goals for this year. If you want to take a look, it's on one of the lists below **(I appreciate it 😊)**
+I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 19 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. Not very active here 'cause I'm focused on college (graduation in Software Engineering, doing some Calculus you know?) and using Azure DevOps a lot (because of work) 🥇
 
 <img align="right" src="https://i.ibb.co/x7d4DBt/Asset-1.png" alt="Logo" border="0">
 
