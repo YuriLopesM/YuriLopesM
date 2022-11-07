@@ -20,7 +20,7 @@ I'm _Yuri_, a Junior Front-end Developer from Brazil! I'm 19 years old and I lov
 - 💬 Ask me about anything! Just send me a message or feedback in [Linkedin](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
 - 👾 Fun fact: I play some games, like Valorant, CS:GO and League of Legends
 
-**Languages and Tools**
+**Some Languages and Tools**
 <div align="center">
     <img src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=F56B91" />
     <img src="https://img.shields.io/badge/Next.js-282A36?style=for-the-badge&logo=next.js&logoColor=F56B91" />
