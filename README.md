@@ -7,7 +7,7 @@
 
 <div align="center">
     
-__*Style made to match with the GitHub dark mode, I like more this theme :crescent_moon:*__
+__*Style made to match with the GitHub dark mode :crescent_moon:*__
 
 </div>
 
