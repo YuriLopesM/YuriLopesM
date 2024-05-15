@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=Gmail&logoColor=F56B91&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
 [![GitHub Gists Badge](https://img.shields.io/badge/-Github%20Gists-282A36?style=flat-square&logo=Github&logoColor=F56B91&link=https://gist.github.com/YuriLopesM)](https://gist.github.com/YuriLopesM)
 
-Currently using more Azure DevOps or GitLab for work. To reach out, send me a message in any badges above.
+Currently using more Azure DevOps and GitLab for work. To reach out, send me a message in any badges above 😉
 
 **Languages and Tools**
 <div align="center">
