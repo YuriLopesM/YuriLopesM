@@ -15,7 +15,10 @@
 
 <br>
 
-Currently using more Azure DevOps and GitLab for work, and GitHub for college and personal projects. To reach out, send me a message in any badges above 😉
+<div align="center">
+    Currently using more Azure DevOps and GitLab for work, and GitHub for college and personal projects. <br>
+    To reach out, send me a message in any badges above 😉
+</div>
 
 <br>
 
