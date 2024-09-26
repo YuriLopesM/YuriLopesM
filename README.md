@@ -1,25 +1,33 @@
-## Hey there! 👋
+## Hey there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1d1a24?style=flat-square&logo=Linkedin&logoColor=962bed&link=https://www.linkedin.com/in/yuri-lopes-machado-170023198/)](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-1d1a24?style=flat-square&logo=Instagram&logoColor=962bed&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-1d1a24?style=flat-square&logo=Gmail&logoColor=962bed&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
-[![GitHub Gists Badge](https://img.shields.io/badge/-Github%20Gists-1d1a24?style=flat-square&logo=Github&logoColor=962bed&link=https://gist.github.com/YuriLopesM)](https://gist.github.com/YuriLopesM)
+<div align="right">
+    
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0c1b2e?style=flat-square&logo=Linkedin&logoColor=2c569c&link=https://www.linkedin.com/in/yuri-lopes-machado-170023198/)](https://www.linkedin.com/in/yuri-lopes-machado-170023198/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-0c1b2e?style=flat-square&logo=Instagram&logoColor=2c569c&link=https://www.instagram.com/yurilopesm)](https://www.instagram.com/yurilopesm)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-0c1b2e?style=flat-square&logo=Gmail&logoColor=2c569c&link=mailto:yurilopesmachado@hotmail.com)](mailto:yurilopesmachado@hotmail.com)
+[![GitHub Gists Badge](https://img.shields.io/badge/-Github%20Gists-0c1b2e?style=flat-square&logo=Github&logoColor=2c569c&link=https://gist.github.com/YuriLopesM)](https://gist.github.com/YuriLopesM)
 
-Currently using more Azure DevOps and GitLab for work. To reach out, send me a message in any badges above 😉
+</div>
 
-**Languages and Tools**
 <div align="center">
-    <img src="https://img.shields.io/badge/React-1d1a24?style=for-the-badge&logo=react&logoColor=962bed" />
-    <img src="https://img.shields.io/badge/Next.js-1d1a24?style=for-the-badge&logo=next.js&logoColor=962bed" />
-    <img src="https://img.shields.io/badge/TypeScript-1d1a24?style=for-the-badge&logo=typescript&logoColor=962bed" />
-    <img src="https://img.shields.io/badge/JavaScript-1d1a24?style=for-the-badge&logo=javascript&logoColor=962bed" />
-    <img src="https://img.shields.io/badge/HTML5-1d1a24?style=for-the-badge&logo=html5&logoColor=962bed" />
-    <img src="https://img.shields.io/badge/CSS3-1d1a24?style=for-the-badge&logo=css3&logoColor=962bed" />
+    <img src="https://github.com/user-attachments/assets/e668751f-02ad-4f5f-9667-51f0eb5ab7e2" width="300" />
 </div>
 
 <br>
 
-![lain](https://github.com/user-attachments/assets/dad23ccf-37c3-43d4-9381-39a536dbcf48)
+Currently using more Azure DevOps and GitLab for work, and GitHub for college and personal projects. To reach out, send me a message in any badges above 😉
+
+<br>
+
+**Languages and Tools**
+<div align="center">
+    <img src="https://img.shields.io/badge/React-0c1b2e?style=for-the-badge&logo=react&logoColor=2c569c" />
+    <img src="https://img.shields.io/badge/Next.js-0c1b2e?style=for-the-badge&logo=next.js&logoColor=2c569c" />
+    <img src="https://img.shields.io/badge/TypeScript-0c1b2e?style=for-the-badge&logo=typescript&logoColor=2c569c" />
+    <img src="https://img.shields.io/badge/JavaScript-0c1b2e?style=for-the-badge&logo=javascript&logoColor=2c569c" />
+    <img src="https://img.shields.io/badge/HTML5-0c1b2e?style=for-the-badge&logo=html5&logoColor=2c569c" />
+    <img src="https://img.shields.io/badge/CSS3-0c1b2e?style=for-the-badge&logo=css3&logoColor=2c569c" />
+</div>
 
 ---
 
