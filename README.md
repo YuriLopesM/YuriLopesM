@@ -37,10 +37,10 @@
 <details>
     <summary><strong>GitHub Stats</strong></summary>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YuriLopesM&theme=dracula&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=YuriLopesM&theme=github_dark&hide_border=true">
     </div>
     <br>
     <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=dracula&hide_border=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLopesM&theme=github_dark&hide_border=true">
     </div>
 </details>
